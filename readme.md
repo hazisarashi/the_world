@@ -1,15 +1,8 @@
 # The World
 
-- Contributors: doa, HAZI
-- Tags: world map, map widget, map, backpacker,travel,traveler
-- Requires at least: 3.0
-- Tested up to: 3.5.1
-- Stable tag: 0.5.6
+This Wordpress plugin maps where you have been around the world.
 
-## Description
-
-This plugin maps where you have been around the world.
-Use the Widget or insert <?php the_world_map() ?> in the post.
+Use the Widget or insert `<?php the_world_map() ?>` in the post.
 
 ## Installation
 
@@ -20,3 +13,11 @@ Use the Widget or insert <?php the_world_map() ?> in the post.
 
 **0.0.1 - May 21, 2013**  
 Initial release.
+
+----
+
+- Contributors: doa, HAZI
+- Tags: world map, map widget, map, backpacker,travel,traveler
+- Requires at least: 3.0
+- Tested up to: 3.5.1
+- Stable tag: 0.5.6
