@@ -4,7 +4,7 @@ Plugin Name: The World
 Version: 0.1
 Plugin URI: http://doa.travel/the-world/
 Description: This plugin maps wherever you've been around the world.
-Author: doa
+Author: doatv
 Author URI: http://doa.travel/
 */
 

@@ -11,12 +11,12 @@ Use the Widget or insert `<?php the_world_map() ?>` in the post.
 
 ## Changelog
 
-**0.0.1 - May 21, 2013**  
+**0.1 - May 21, 2013**  
 Initial release.
 
 ----
 
-- Contributors: doa, HAZI
+- Contributors: doatv, HAZI
 - Tags: world map, map widget, map, backpacker,travel,traveler
 - Requires at least: 3.0
 - Tested up to: 3.5.1
